@@ -1,5 +1,12 @@
 # John McGill – AI & AWS Mastery Portfolio
 
+![GitHub Pages](https://img.shields.io/badge/Site-Live-brightgreen)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange)
+![ML Specialty](https://img.shields.io/badge/AWS-Machine_Learning_Specialty-yellowgreen)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+
 **Cloud Infrastructure Leader | Cybersecurity Expert | Educator**
 
 Welcome to my professional portfolio, documenting my journey toward mastery in:
